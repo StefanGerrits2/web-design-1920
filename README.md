@@ -7,7 +7,7 @@ She has a limited view and cannot see much. She uses a screenreader and her keyb
 ### Case: 
 Understanding a top athlete roster
 
-#####Description case:
+##### Description case:
 
 Alle topwielrenners krijgen om de zoveel tijd een Excel sheet toegestuurd waarin alle trainingsschema’s staan. Dit is een uitgebreid, complex ding. En hij is *colour coded*. Je moet dus kunnen zien om hem te kunnen gebruiken. Dat kunnen jullie beter. Dus. Ontwerp een oplossing waardoor Larissa op een prettige en manier de relevante data kan gebruiken.
 
