@@ -1,3 +1,46 @@
+@font-face {
+    font-family: Opensans-Regular;
+    src: url(../fonts/OpenSans-Regular.ttf);
+    font-display: swap;
+}
+
+@font-face {
+    font-family: Opensans-Light;
+    src: url(../fonts/OpenSans-Light.ttf);
+    font-display: swap;
+}
+
+@font-face {
+    font-family: Opensans-Bold;
+    src: url(../fonts/OpenSans-Bold.ttf);
+    font-display: swap;
+}
+
 body {
-  padding: 1em 2em;
+    background-color: black;
+    color: white;
+    overflow: hidden;
+    font-family: Opensans-Regular;
+    font-weight: 50;
+}
+
+section {
+    padding-left: 2em;
+}
+
+*:focus {
+    position: absolute;
+    box-sizing: border-box;
+    background-color: black;
+    width: 100vw;
+    height: 100vh;
+    font-size: 8vw;
+    text-align: center;
+    vertical-align: middle;
+    border: 15px solid white;
+    padding: 0em 50px;
+}
+
+a, a:visited {
+    color: #62a6ff;
 }
