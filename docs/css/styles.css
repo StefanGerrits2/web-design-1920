@@ -17,30 +17,37 @@
 }
 
 body {
-    background-color: black;
+    background-color: #1e1e1e;
     color: white;
     overflow: hidden;
     font-family: Opensans-Regular;
     font-weight: 50;
 }
 
-section {
-    padding-left: 2em;
+* {
+    box-sizing: border-box;
 }
 
 *:focus {
     position: absolute;
-    box-sizing: border-box;
-    background-color: black;
+    left: 0;
+    background-color: #1e1e1e;
     width: 100vw;
     height: 100vh;
     font-size: 8vw;
     text-align: center;
     vertical-align: middle;
     border: 15px solid white;
-    padding: 0em 50px;
 }
 
 a, a:visited {
     color: #62a6ff;
+}
+
+#home {
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+    display: block;
+    text-shadow: -3px -3px 0 #000, 3px -3px 0 #000, -3px 3px 0 #000, 3px 3px 0 #000;
 }
