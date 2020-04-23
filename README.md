@@ -13,7 +13,19 @@ Alle topwielrenners krijgen om de zoveel tijd een Excel sheet toegestuurd waarin
 
 ## Week 1
 
-[Click here (Week 1 - Kennismaking)](https://github.com/StefanGerrits2/web-design-1920/wiki/Week-1---Kennismaking) for my documentation about my first meeting with Larissa Klaassen.
+[Click here (Week 1 - Test 1 - Aannames testen)](https://github.com/StefanGerrits2/web-design-1920/wiki/Week-1---Kennismaking) for my documentation about my first meeting with Larissa Klaassen.
+
+[Click here (Week 1 - Prototype 1)](https://github.com/StefanGerrits2/web-design-1920/wiki/1.1-Prototype-1) for my documentation how my first test went.
+
+## Week 2
+
+[Click here (Week 2 - Test 2 - Prototype 1 testen)](https://github.com/StefanGerrits2/web-design-1920/wiki/2.1-Week-2---Verslaglegging-Prototype-1) for my documentation about my first prototype.
+
+[Click here (Prototype 1)](https://github.com/StefanGerrits2/web-design-1920/wiki/2.2-Prototype-2) for my documentation how my second test went.
+
+## Week 3
+
+[Click here (Week 3 - Test 3 - Prototype 2 testen)](https://github.com/StefanGerrits2/web-design-1920/wiki/3.1-Week-3-Verslaglegging-Prototype-2) for my documentation how my third test went.
 
 ## License
 

@@ -16,16 +16,17 @@
     font-display: swap;
 }
 
+* {
+    box-sizing: border-box;
+}
+
 body {
     background-color: #1e1e1e;
     color: white;
-    overflow: hidden;
+    overflow-x: hidden;
     font-family: Opensans-Regular;
     font-weight: 50;
-}
-
-* {
-    box-sizing: border-box;
+    margin: 0;
 }
 
 *:focus {
@@ -50,4 +51,16 @@ a, a:visited {
     background-size: cover;
     display: block;
     text-shadow: -3px -3px 0 #000, 3px -3px 0 #000, -3px 3px 0 #000, 3px 3px 0 #000;
+}
+
+#home {
+    margin: 0;
+    left: 0;
+    background-color: #1e1e1e;
+    width: 100vw;
+    height: 100vh;
+    font-size: 8vw;
+    text-align: center;
+    vertical-align: middle;
+    border: 15px solid white;
 }
