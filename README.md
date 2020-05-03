@@ -36,7 +36,7 @@ Alle topwielrenners krijgen om de zoveel tijd een Excel sheet toegestuurd waarin
 
 ## Conclusion - what have I learned?
 
-#### Design principles
+### Design principles
 ##### Learn how to implement design principles in your design
 
 I learned to implement design principles by first understanding what they are and how to use them. The first one is `Study situation`. For this principle I've thought about how the user interacts with my design. I've learned with testing how she exactly uses her keyboard. 
@@ -47,14 +47,14 @@ By designing *with* the user instead of designing *for* them, you can create ama
 
 Last but not least, `Add nonsense`. 
 
-#### User needs
+### User needs
 ##### Understanding user needs, and use them in your design
 
 The first week we had a conversation with the user to really understand her needs, her context and other things that might improve my design. 
 
 Each test I also discovered more things she wanted/needed. I implemented the things I learned and tested these each week. For example she wants to know when she has specific fases in her training, or what days are already booked in for the upcoming weeks.
 
-#### Testing
+### Testing
 ##### Learn how to test and use the results to make your design better
 
 I've tested 3 times with my test person. I've learned how to test. This means comforting the test person and telling him/her it doesn't matter if something goes wrong. If something goes wrong it's good because then I know I need to change something in my design.
