@@ -18,9 +18,9 @@ Alle topwielrenners krijgen om de zoveel tijd een Excel sheet toegestuurd waarin
 * [Click here (User Scenario)](https://github.com/StefanGerrits2/web-design-1920/wiki/5.0-User-scenario) for my User Scenario I've written.
 
 ## Week 2
-* [Click here (Week 2 Prototype 1 testen)](https://github.com/StefanGerrits2/web-design-1920/wiki/2.0-Week-2-Prototype-1) for my documentation about my first prototype.
+* [Click here (Week 2 Prototype 1)](https://github.com/StefanGerrits2/web-design-1920/wiki/2.0-Week-2-Prototype-1) for my documentation about my first prototype.
 
-* [Click here (Week 2 - Prototype 1 testen)](https://github.com/StefanGerrits2/web-design-1920/wiki/2.1-Week-2---Verslaglegging-Prototype-1) for my documentation how my first test went.
+* [Click here (Week 2 - Prototype 1 testen)](https://github.com/StefanGerrits2/web-design-1920/wiki/2.1-Week-2---Verslaglegging-Prototype-1) for my documentation how my second test went.
 
 
 ## Week 3
@@ -45,17 +45,19 @@ For the second principle `Ignore Conventions` I figured out while testing that p
 
 By designing *with* the user instead of designing *for* them, you can create amazing things. This principle is called `Prioritize identity`. I've learned that this way of designing is way more efficient because the user has valuable input aswell. 
 
-Last but not least, `Add nonsense`. 
+Last but not least, `Add nonsense`. This principle means you add little extra things to make the experience more fun. I've added a couple things such as horse photos and little sentences to make the user smile. I figured if I added too much it might get annoying because most of the times the user just wants to know her roster fast has possible without any distracting elements.
 
 ### User needs
 ##### Understanding user needs, and use them in your design
 
-The first week we had a conversation with the user to really understand her needs, her context and other things that might improve my design. 
+The first week we had a conversation with the user to really understand her needs, her context and other things that might improve my design. This corresponds to the exclusive design principles `Study situation` and `Prioritize identity`.
 
 Each test I also discovered more things she wanted/needed. I implemented the things I learned and tested these each week. For example she wants to know when she has specific fases in her training, or what days are already booked in for the upcoming weeks.
 
 ### Testing
 ##### Learn how to test and use the results to make your design better
+
+We had to test through screensharing and the webcam because the current situation with the coronavirus. It was kind of hard because you can't exactly see what the user is doing with your own eyes. To kind of make up for this the test person would say the keys she pressed and why she pressed them.
 
 I've tested 3 times with my test person. I've learned how to test. This means comforting the test person and telling him/her it doesn't matter if something goes wrong. If something goes wrong it's good because then I know I need to change something in my design.
 
