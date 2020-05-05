@@ -70,6 +70,18 @@ Each test I wrote things down I needed to change/improve for the next test. I've
 
 ---
 
+## Reflection
+
+I liked how we had to focus on one user during this course. This way you can design something that's perfect for that one user. It was kind of hard to do this remotely, because you can't exactly see how the user interacts with your prototype, for example with the keyboard. It would've been better if our team had managed to put another camera focusing on the keyboard. 
+
+I think I've built a decent prototype in this given period of time with 3 user tests. I remembered some things how to test from the a previous year, for example `don't tell them exactly what to do` or `mention names of elements in the app`. But I've learned other things while remote testing, for example: tell the user she has to say what keys she's pressing on her keyboard and why. I found out testing was really important during this course.
+
+I liked how we designed *with* the user instead of *for* the user. This way while testing 3 times *with* the user, you can iterate and improve your prototype with the results of the tests. 
+
+Overall I think I've learned a lot. Especially how to create something for a person who's blind. This means testing with a screenreader and trying out different types of input (the keyboard).
+
+---
+
 ## Installation 
 
 #### 1. Clone this repository to your computer
